@@ -84,10 +84,11 @@ Contributing
 
 
 Contact
-Paulo Chagas - twitter: @victor_paulo00 - email: paulovictorchagas5@gmail.com - linkedin: https://www.linkedin.com/in/pvchagas/
+
+-> Paulo Chagas - twitter: @victor_paulo00 - email: paulovictorchagas5@gmail.com - linkedin: https://www.linkedin.com/in/pvchagas/
 
 Project Link: https://github.com/Victhagas/Projects
 
 Acknowledgements
 
-Special thanks to the CyberLab team, whom gave me this challenge!
+-> Special thanks to the CyberLab team, whom gave me this challenge!
