@@ -81,7 +81,7 @@ CONTACT
 
 -> Paulo Chagas - twitter: @victor_paulo00 - email: paulovictorchagas5@gmail.com - linkedin: https://www.linkedin.com/in/pvchagas/
 
-Project Link: https://github.com/Victhagas/Projects
+Project Link: https://github.com/Victhagas/MNIST-Project
 
 ACKNOWLEDGES
 
