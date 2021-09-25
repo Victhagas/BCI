@@ -1,3 +1,5 @@
+ABOUT THE PROJECT
+
 A simple classifier, using fastai and PyTorch, that differs the numbers 0 and 5 from MNIST dataset. You can see the original dataset on the Yann Lecun website, which is: http://yann.lecun.com/exdb/mnist/
 
 Basically, this classifier uses the training and testing images, from MNIST Dataset, with a ~99% accuracy, to distinguish randoms 0s and 5s and tell us if they
