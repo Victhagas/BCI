@@ -1,4 +1,4 @@
-About The Project
+ABOUT THE PROJECT
 
 
 Simple classifier, using fastai and pytorch, that differs the numbers 0 and 5, from MNIST Dataset. You can see the original Dataset on Yann Lecun website, which is:
@@ -22,14 +22,14 @@ for exemple: DataLoader (which required me to create a previous Dataset), and th
 
 
 
-Built With
+BUILT WITH
 
 
 -> Fastai, and those derivated from it, like Pytorch 
 -> Tensorflow 
 
 
-Getting Started
+GETTING STARTED
 
 
 -> If you are running on colab, you won't need any prerequisites at all, aside from getting the permission on the link (the first output, when you are importing 
@@ -41,26 +41,24 @@ Getting Started
 -> To install with pip, use: pip install fastai. If you install with pip, you should install PyTorch first by following the PyTorch installation instructions.
 
 
-Prerequisites
+PREREQUISITES
 
 
 -> As I am still learning a lot of things about Machine Learning, Deep Learning and so, you don't need any prerequistes to read and understand my code, aside from 
 having a reasonable knowledge about Python and will to learn (most important)!
 
 
-Clone the repo
-
+CLONE THE REPO
 
 -> git clone: https://github.com/Victhagas/Projects.git
 
 
-Installed Packages
+INSTALLED PACKAGES
 
 
 -> fastbook (by using: !pip install -Uqq fastbook)
 
-
-Imported Libraries
+IMPORTED LIBRARIES
 
 
 -> Pandas
@@ -69,7 +67,7 @@ Imported Libraries
 -> Tensorflow
 
 
-Usage
+USAGE
 
 
 -> If you really want the classifier, then you just need to run all cells :)
@@ -77,18 +75,16 @@ Usage
    You can get all desirable images and calculate the mean of thousands of handwritings images. Well, there aren't a looot of uses, but use your criativity :)
    
 
-Contributing
-
+CONTRIBUTING
 
 -> Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-
-Contact
+CONTACT
 
 -> Paulo Chagas - twitter: @victor_paulo00 - email: paulovictorchagas5@gmail.com - linkedin: https://www.linkedin.com/in/pvchagas/
 
 Project Link: https://github.com/Victhagas/Projects
 
-Acknowledgements
+ACKNOWLEDGES
 
 -> Special thanks to the CyberLab team, whom gave me this challenge!
